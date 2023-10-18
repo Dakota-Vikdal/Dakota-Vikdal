@@ -6,7 +6,7 @@ Nice to meet you! This Readme is a little bit about me. Currently I'm delving de
   
 - 🌱 I’m currently learning how to develop web applications that are brilliant and useful.
   
-- 👯 I’m looking to collaborate on web development baby! If anyone has an idea that they'd like to work with someone on, please feel free to message me on my linkedin and/or my email.
+- 👯 I’m looking to collaborate on web development. If anyone has an idea that they'd like to work with someone on, please feel free to message me on my linkedin and/or my email.
   
 - 💬 Ask me about anything pertaining to Python and Flask! The more we ask the more we know.
 
