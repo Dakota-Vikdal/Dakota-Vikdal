@@ -11,9 +11,9 @@ Hello, my name is Dakota Vikdal, I'm currently delving deep into the skill calle
 - 💬 Ask me about anything pertaining to Python and Flask! The more we ask the more we know.
   
   Check me out on:
--   linkedin: https://www.linkedin.com/in/dakota-vikdal/
--   medium: https://medium.com/@dakota.james19
--   github: https://github.com/Dakota-Vikdal
+-     linkedin: https://www.linkedin.com/in/dakota-vikdal/
+-     medium: https://medium.com/@dakota.james19
+-     github: https://github.com/Dakota-Vikdal
   
 - You can reach me on my linkedin account: https://www.linkedin.com/in/dakota-vikdal/ and/or my email: dakota.james19@hotmail.com
   
