@@ -9,6 +9,10 @@ Hello, my name is Dakota Vikdal, I'm currently delving deep into the skill calle
 - 👯 I’m looking to collaborate on web development baby! If anyone has an idea that they'd like to work with someone on, please feel free to message me on my linkedin.
   
 - 💬 Ask me about anything pertaining to Python and Flask! The more we ask the more we know.
+
+- 📄 Here is my resume for you perusal: https://docs.google.com/document/d/1n5LjvxTYk6l6o0341maiCPbos3Jtt6hkiCm83GOXP0s/edit#heading=h.9nkblskwyabs
+
+- ⚡A fun fact about me is I love both fitness and videogames, which I think is a great balance.
   
   Check me out on:
 -     https://www.linkedin.com/in/dakota-vikdal/
